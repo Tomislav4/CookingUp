@@ -1,0 +1,24 @@
+# Project exclude paths
+.gradle/
+build/
+app/build/
+.kotlin/
+.idea/
+
+# Local configuration files
+local.properties
+.DS_Store
+
+# Java Heap Dumps
+*.hprof
+
+# Android Studio / IntelliJ
+*.iml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/libraries/
+.idea/caches/
+
+# Built-in AI Guidelines (ignored from Git)
+AGENTS.md
+agents.md

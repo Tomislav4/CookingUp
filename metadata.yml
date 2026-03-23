@@ -1,0 +1,16 @@
+app_name: CookingUp
+summary: A 100% offline-first, privacy-focused recipe manager for Android.
+description: |
+  CookingUp is a privacy-centric recipe manager designed for Android. It allows you to organize your culinary library, scale ingredient quantities instantly, and share recipes with friends—all without an internet connection or cloud tracking.
+  
+  Key features include:
+  - Offline-First: No internet required. Your data never leaves your device.
+  - Recipe Scaling: Automatically adjust ingredient amounts based on your desired serving size.
+  - Privacy-Centric: Zero telemetry, zero analytics, and zero cloud sync.
+  - Smart Sharing: Export individual recipes (.curcp) or your entire library (.culbr) via Android's native sharing system.
+  - OCR Scanning: (Optional) Use your camera to scan physical recipes into digital format using on-device ML Kit.
+  - Modern UI: Built with Jetpack Compose with full Edge-to-Edge support and Material 3 design.
+source_code: https://github.com/io-github-cookingup/CookingUp
+license: GPL-3.0
+target_sdk: 36
+min_sdk: 24
